@@ -55,7 +55,7 @@ SRM Institute of Science and Technology (2022 – Present)
 - Built **logistic regression models** to predict OCEAN traits  
 - Created a **Flask web app** to process PDF/DOCX resumes  
 - Used **TF-IDF vectorization** for text feature extraction  
-🔗 Repo: _Coming Soon_
+🔗 Repo: https://github.com/calvinlivingston07/Personality-Prediction-System-Through-CV-Analysis.git
 
 ---
 
