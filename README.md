@@ -47,7 +47,7 @@ SRM Institute of Science and Technology (2022 – Present)
 - Used **OpenCV DNN + OpenFace embeddings** for accurate face recognition  
 - Automated dataset creation & label encoding  
 - Enabled real-time webcam recognition w/ confidence scoring  
-🔗 Repo: _Coming Soon_
+🔗 Repo: https://github.com/calvinlivingston07/Face-Detection-using-OpenCV-in-Python.git
 
 ---
 
